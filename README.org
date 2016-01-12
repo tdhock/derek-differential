@@ -1,0 +1,10 @@
+*** TODOs
+
+- scatterplot of differences at early and late times, discretized to
+  avoid overplotting.
+- what is the H/L M/L code?
+- what does LPS/MOCK mean?
+
+*** 12 Jan 2016
+
+http://cbio.ensmp.fr/~thocking/data/figure-RNAseq/
