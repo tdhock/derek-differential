@@ -7,4 +7,4 @@
 
 *** 12 Jan 2016
 
-http://cbio.ensmp.fr/~thocking/data/figure-RNAseq/
+https://rcdata.nau.edu/genomic-ml/public_html/data/figure-RNAseq/
